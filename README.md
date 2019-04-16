@@ -5,4 +5,4 @@ As the patent office for Europe, we support innovation, competitiveness and econ
 
 This is where we will publish exciting new ideas in intellectual property..... stay tuned!
 
-[EPO](www.epo.org)
+[www.epo.org](www.epo.org)
