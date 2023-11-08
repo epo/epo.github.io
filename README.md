@@ -1,4 +1,4 @@
-![EPO logo](https://www.epo.org/images/logo.gif "EPO")
+![EPO logo](logo.gif)
 # epo.github.io
 
 As the patent office for Europe, we support innovation, competitiveness and economic growth across Europe.  
